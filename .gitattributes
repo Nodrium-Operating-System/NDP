@@ -1,0 +1,4 @@
+*.zst filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.pkg filter=lfs diff=lfs merge=lfs -text
+*.sysctl filter=lfs diff=lfs merge=lfs -text
